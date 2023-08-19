@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **deploying models via Flask and Docker - https://github.com/DataTalksClub/machine-learning-zoomcamp**
 
-- 👨‍💻 All of my projects are available at [https://anudeepvanjavakam1.github.io/](https://anudeepvanjavakam1.github.io/)
+- 👨‍💻 This is my Portfolio Website [https://anudeepvanjavakam1.github.io/](https://anudeepvanjavakam1.github.io/)
 
 - 📝 I regularly write articles on [https://medium.com/@anudeepvanjavakam](https://medium.com/@anudeepvanjavakam)
 
