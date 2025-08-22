@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **anudeepvanjavakam@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-0rLKFhqte-jpmudHvkYdPSNiSruc2BR/view?usp=sharing](https://drive.google.com/file/d/1-0rLKFhqte-jpmudHvkYdPSNiSruc2BR/view?usp=sharing)
+- 📄 Know about my experiences and connect with me [https://www.linkedin.com/in/anudeepvanjavakam]
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
